@@ -1,0 +1,18 @@
+{
+  "data": {
+    "app_info": [
+      {
+        "what_news": "-Bug fixeds",
+        "force_update": "true",
+        "package_name": "com.banix.piano.learnpiano",
+        "version_code": 46,
+        "version_name": "5.5",
+        "new_package_name": "com.banix.piano.learnpiano"
+      }
+    ]
+  },
+  "meta": {
+    "message": null,
+    "success": 1
+  }
+}
