@@ -13,23 +13,23 @@
         },
         {
           "name": "app_open_id2",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "inter_open_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "native_full_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "inter_tut_id",
           "isEnabled": "false"
         },
         {
-          "name": "native_tut_id",
+          "name": "native_full_id",
+          "isEnabled": "false"
+        },
+        {
+          "name": "inter_tut_id",
           "isEnabled": "true"
+        },
+        {
+          "name": "native_tut_id",
+          "isEnabled": "false"
         },
         {
           "name": "inter_splash_id",
