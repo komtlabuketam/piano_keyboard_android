@@ -5,23 +5,23 @@
       "ad_key": [
         {
           "name": "app_open_id",
-          "isEnabled": "true"
+          "isEnabled": "false"
         },
         {
           "name": "app_open_id1",
-          "isEnabled": "true"
+          "isEnabled": "false"
         },
         {
           "name": "app_open_id2",
-          "isEnabled": "true"
+          "isEnabled": "false"
         },
         {
           "name": "inter_open_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "native_full_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "inter_tut_id",
@@ -29,7 +29,7 @@
         },
         {
           "name": "native_tut_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "inter_splash_id",
@@ -49,7 +49,7 @@
         },
         {
           "name": "banner_home_id",
-          "isEnabled": "true"
+          "isEnabled": "false"
         },
         {
           "name": "reward_home_id",
@@ -61,7 +61,7 @@
         },
         {
           "name": "native_language_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         }
       ]
     }
