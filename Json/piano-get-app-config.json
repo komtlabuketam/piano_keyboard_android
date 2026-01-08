@@ -4,63 +4,115 @@
       "ad_flow_script": "CTR_SPAM",
       "ad_key": [
         {
-          "name": "app_open_id",
+          "name": "app_open_2_id",
           "isEnabled": "true"
         },
         {
-          "name": "app_open_id1",
+          "name": "app_open_2_id1",
           "isEnabled": "true"
         },
         {
-          "name": "app_open_id2",
+          "name": "app_open_2_id2",
           "isEnabled": "true"
         },
         {
-          "name": "inter_open_id",
+          "name": "inter_tut_2_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_full_id",
+          "name": "native_tut_2_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_tut_id",
+          "name": "inter_splash_2_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_tut_id",
+          "name": "banner_splash_2_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_splash_id",
+          "name": "native_home_2_id",
           "isEnabled": "true"
         },
         {
-          "name": "banner_splash_id",
+          "name": "inter_home_2_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_home_id",
+          "name": "banner_home_2_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_home_id",
+          "name": "inter_language_2_id",
           "isEnabled": "true"
         },
         {
-          "name": "banner_home_id",
+          "name": "native_language_2_id",
           "isEnabled": "true"
         },
         {
-          "name": "reward_home_id",
+          "name": "banner_piano_2_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_language_id",
+          "name": "inter_piano_2_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_language_id",
+          "name": "banner_playlist_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "reward_unlock_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_drum_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "banner_drum_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_saxo_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "banner_saxo_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_open_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_guitar_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "banner_guitar_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_kalimba_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "banner_kalimba_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_full_piano_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_full_tut_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_collapse_piano_2_id",
           "isEnabled": "true"
         }
       ]
