@@ -5,15 +5,15 @@
       "ad_key": [
         {
           "name": "app_open_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "app_open_id1",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "app_open_id2",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "inter_open_id",
@@ -33,7 +33,7 @@
         },
         {
           "name": "inter_splash_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "banner_splash_id",
@@ -49,7 +49,7 @@
         },
         {
           "name": "banner_home_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "reward_home_id",
