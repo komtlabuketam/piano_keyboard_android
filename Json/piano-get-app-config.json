@@ -114,6 +114,26 @@
         {
           "name": "native_collapse_piano_2_id",
           "isEnabled": "true"
+        },
+        {
+          "name": "inter_tiles_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_tiles_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "banner_tiles_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_full_tiles_2_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_language_2_id2",
+          "isEnabled": "true"
         }
       ]
     }
