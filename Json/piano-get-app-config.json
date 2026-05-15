@@ -4,135 +4,147 @@
       "ad_flow_script": "CTR_SPAM",
       "ad_key": [
         {
-          "name": "app_open_2_id",
+          "name": "app_open_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "app_open_2_id1",
+          "name": "app_open_3_id1",
           "isEnabled": "true"
         },
         {
-          "name": "app_open_2_id2",
+          "name": "app_open_3_id2",
           "isEnabled": "true"
         },
         {
-          "name": "inter_tut_2_id",
+          "name": "inter_tut_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_tut_2_id",
+          "name": "native_tut_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_splash_2_id",
+          "name": "inter_splash_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "banner_splash_2_id",
+          "name": "banner_splash_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_home_2_id",
+          "name": "native_home_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_home_2_id",
+          "name": "inter_home_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "banner_home_2_id",
+          "name": "banner_home_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_language_2_id",
+          "name": "inter_language_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_language_2_id",
+          "name": "native_language_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "banner_piano_2_id",
+          "name": "banner_piano_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_piano_2_id",
+          "name": "inter_piano_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "banner_playlist_2_id",
+          "name": "banner_playlist_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "reward_unlock_2_id",
+          "name": "reward_unlock_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_drum_2_id",
+          "name": "inter_drum_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "banner_drum_2_id",
+          "name": "banner_drum_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_saxo_2_id",
+          "name": "inter_saxo_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "banner_saxo_2_id",
+          "name": "banner_saxo_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_open_2_id",
+          "name": "inter_open_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_guitar_2_id",
+          "name": "inter_guitar_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "banner_guitar_2_id",
+          "name": "banner_guitar_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_kalimba_2_id",
+          "name": "inter_kalimba_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "banner_kalimba_2_id",
+          "name": "banner_kalimba_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_full_piano_2_id",
+          "name": "native_full_piano_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_full_tut_2_id",
+          "name": "native_full_tut_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_collapse_piano_2_id",
+          "name": "native_collapse_piano_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_tiles_2_id",
+          "name": "inter_tiles_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_tiles_2_id",
+          "name": "native_tiles_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "banner_tiles_2_id",
+          "name": "banner_tiles_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_full_tiles_2_id",
+          "name": "native_full_tiles_3_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_language_2_id2",
+          "name": "native_language_3_id2",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_open_3_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_loading_3_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_vip_3_id",
           "isEnabled": "true"
         }
       ]
