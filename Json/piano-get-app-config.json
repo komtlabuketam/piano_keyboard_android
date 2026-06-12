@@ -146,6 +146,30 @@
         {
           "name": "inter_vip_3_id",
           "isEnabled": "true"
+        },
+        {
+          "name": "native_backfill_loading_3_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_backfill_tut_3_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_backfill_collapse_piano_3_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_backfill_tiles_3_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_backfill_full_piano_3_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_backfill_full_tiles_3_id",
+          "isEnabled": "true"
         }
       ]
     }
