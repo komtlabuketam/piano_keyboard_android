@@ -170,6 +170,14 @@
         {
           "name": "native_backfill_full_tiles_3_id",
           "isEnabled": "true"
+        },
+        {
+          "name": "reward_choose_theme_4_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "native_choose_theme_4_id",
+          "isEnabled": "true"
         }
       ]
     }
