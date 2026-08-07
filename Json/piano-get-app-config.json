@@ -192,6 +192,12 @@
         },{
           "name": "native_full_tiles_4_id2",
           "isEnabled": "true"
+        },{
+          "name": "native_info_4_id",
+          "isEnabled": "true"
+        },{
+          "name": "native_info_4_id2",
+          "isEnabled": "true"
         }
       ]
     }
