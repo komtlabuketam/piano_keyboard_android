@@ -141,7 +141,7 @@
         },
         {
           "name": "native_open_4_id",
-          "isEnabled": "true"
+          "isEnabled": "false"
         },
         {
           "name": "native_loading_4_id",
