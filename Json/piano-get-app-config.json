@@ -141,7 +141,7 @@
         },
         {
           "name": "native_open_4_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "native_loading_4_id",
@@ -149,30 +149,6 @@
         },
         {
           "name": "inter_vip_4_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "native_backfill_loading_4_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "native_backfill_tut_4_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "native_backfill_collapse_piano_4_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "native_backfill_tiles_4_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "native_backfill_full_piano_4_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "native_backfill_full_tiles_4_id",
           "isEnabled": "true"
         },
         {
@@ -186,17 +162,13 @@
         {
           "name": "native_full_piano_4_id2",
           "isEnabled": "true"
-        },{
+        },
+        {
           "name": "native_full_tut_4_id2",
           "isEnabled": "true"
-        },{
+        },
+        {
           "name": "native_full_tiles_4_id2",
-          "isEnabled": "true"
-        },{
-          "name": "native_info_4_id",
-          "isEnabled": "true"
-        },{
-          "name": "native_info_4_id2",
           "isEnabled": "true"
         }
       ]
