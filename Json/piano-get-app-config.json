@@ -145,7 +145,7 @@
         },
         {
           "name": "native_loading_4_id",
-          "isEnabled": "true"
+          "isEnabled": "false"
         },
         {
           "name": "inter_vip_4_id",
@@ -169,6 +169,14 @@
         },
         {
           "name": "native_full_tiles_4_id2",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_guzheng_4_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "banner_guzheng_4_id",
           "isEnabled": "true"
         }
       ]
